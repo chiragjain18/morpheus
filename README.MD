@@ -13,7 +13,7 @@ Go to [Wiki](https://github.com/Mobikwik/morpheus/wiki) for details.
 
 ## Setup
 
-Use the Morpheus setup script [goMorpheus.sh](https://github.com/Mobikwik/morpheus/blob/master/goMorpheus.sh) for Linux.
+Use the Morpheus setup script [goMorpheus.sh](https://github.com/chiragjain18/morpheus/blob/master/goMorpheus.sh) for Linux.
 
 ### Unit Testing
 
